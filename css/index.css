@@ -231,10 +231,11 @@
   border-radius: 0.09259259rem;
   margin-top: 0.22222222rem;
   padding: 0 0.05555556rem;
+  text-aling: center;
 }
 .m-main .tb-news .tb-top-news .item a .news-txt {
   float: left;
-  width: 6.25925926rem;
+  width: 5.3rem;
   color: #313431;
   overflow: hidden;
   text-overflow: ellipsis;
